@@ -1,3 +1,4 @@
 line 1 from master branch
 line 2 from master branch
 line 3 from master branch
+line 4 from master branch
