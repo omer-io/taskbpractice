@@ -3,3 +3,4 @@ line 2 from master branch
 line 3 from master branch
 line 4 from master branch
 line 3 from feature 1 branch
+line 4 from feature 1 branch
