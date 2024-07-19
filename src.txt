@@ -5,3 +5,4 @@ line 4 from master branch
 line 3 from feature 1 branch
 line 4 from feature 1 branch
 line 5 from feature 1 branch
+line 6 from feature 2 branch
